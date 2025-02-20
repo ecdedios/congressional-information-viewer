@@ -13,8 +13,6 @@ The application integrates seamlessly with the Congress.gov API to fetch real-ti
 
 Whether you're a researcher, student, or civically engaged individual, the Congressional Information Viewer offers an intuitive platform to stay informed about legislative activities and your representatives' contributions.
 
-🚀 Package & run as a standalone app for Windows/Mac.
-
 ## Usage
 
 Some technologies used:
@@ -22,7 +20,6 @@ Some technologies used:
 - tkinter
 - requests
 - python-dotenv
-- pyinstaller
 
 To see the project in action, open and run the notebooks.
 
