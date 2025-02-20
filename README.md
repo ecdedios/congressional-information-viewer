@@ -19,7 +19,6 @@ Some technologies used:
 
 - tkinter
 - requests
-- python-dotenv
 
 To see the project in action, open and run the notebooks.
 
